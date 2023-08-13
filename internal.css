@@ -1,0 +1,32 @@
+*{
+    margin: 10px;
+    padding: 20px;
+}
+
+nav{
+    width: auto;
+    height: auto;
+    background-color: seagreen;
+}
+
+.frameborder{
+    
+    background-position: center;
+   
+    background-size: cover;
+    
+}
+
+table tr td ul li a{
+
+    background-color: chartreuse;
+}
+
+
+
+a:hover{
+    color: black;
+    border-radius: 40px;
+    box-shadow: 10px 5px;
+
+}
